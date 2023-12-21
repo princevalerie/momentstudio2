@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.koneksistudio.com	TRUE	/	FALSE	1999999999	FoodStartup	m9bd0c6ph0b9aaio5s6crb5b5h4qbuio
+
